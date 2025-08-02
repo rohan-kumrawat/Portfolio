@@ -43,10 +43,10 @@ const Projects = () => {
     {
       title: 'Blog CMS',
       description: 'A content management system for blogs with markdown support, SEO optimization, and user role management.',
-      image: 'https://images.pexels.com/photos/34600/pexels-photo.jpg',
-      technologies: ['Next.js', 'Prisma', 'NextAuth', 'Vercel'],
-      github: 'https://github.com',
-      live: 'https://example.com',
+      image: 'https://i.ibb.co/whq4dVy6/Screenshot-2025-08-02-at-20-28-22-Blog-CMS-Modern-Content-Management-System.png',
+      technologies: ['React', 'Notify', 'Tailwind CSS'],
+      github: 'https://github.com/rohan-kumrawat/blog-cms',
+      live: 'https://calm-dango-dcebda.netlify.app/',
       featured: false
     },
     {
