@@ -48,15 +48,6 @@ const Projects = () => {
       github: 'https://github.com/rohan-kumrawat/blog-cms',
       live: 'https://calm-dango-dcebda.netlify.app/',
       featured: false
-    },
-    {
-      title: 'Fitness Tracker',
-      description: 'Mobile-first fitness tracking application with workout logging, progress tracking, and social features.',
-      image: 'https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg',
-      technologies: ['React Native', 'Redux', 'SQLite', 'Chart.js'],
-      github: 'https://github.com',
-      live: 'https://example.com',
-      featured: false
     }
   ];
 
