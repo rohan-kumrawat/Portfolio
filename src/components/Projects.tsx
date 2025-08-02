@@ -14,6 +14,15 @@ const Projects = () => {
       featured: true
     },
     {
+      title: 'Recipe Suggestion App',
+      description: 'A responsive web application that suggests recipes based on ingredients entered by the user. It fetches real-time data using the Spoonacular API and displays detailed recipes including ingredients, preparation steps, and nutritional info. Built with React and TypeScript, the app ensures a smooth and intuitive user experience across all devices.',
+      image: 'https://i.ibb.co/sdPhbWyK/Screenshot-2025-08-02-at-16-01-24-Modern-Meal-Suggestion-App-with-Spoonacular-API.png',
+      technologies: ['React', 'TypeScript', 'Spoonacular API', 'Tailwind CSS', 'Vercel', 'Vite'],
+      github: 'https://github.com/rohan-kumrawat/meal-suggestion',
+      live: 'https://meal-suggestion-blue.vercel.app/',
+      featured: false
+    },
+    {
       title: 'Task Management App',
       description: 'A collaborative task management application with real-time updates, drag-and-drop functionality, and team collaboration features.',
       image: 'https://i.ibb.co/DfW5rNcS/Screenshot-2025-08-02-at-16-21-47-Task-Management-App.png',
@@ -23,17 +32,8 @@ const Projects = () => {
       featured: true
     },
     {
-      title: 'Recipe Suggestion App',
-      description: 'A responsive weather dashboard that displays current weather, forecasts, and weather maps with location-based services.',
-      image: 'https://i.ibb.co/sdPhbWyK/Screenshot-2025-08-02-at-16-01-24-Modern-Meal-Suggestion-App-with-Spoonacular-API.png',
-      technologies: ['React', 'TypeScript', 'Spoonacular API', 'Tailwind CSS', 'Vercel'],
-      github: 'https://github.com/rohan-kumrawat/meal-suggestion',
-      live: 'https://meal-suggestion-blue.vercel.app/',
-      featured: false
-    },
-    {
       title: 'Unsplash Image Search',
-      description: 'Analytics dashboard for social media metrics with data visualization, reporting features, and API integrations.',
+      description: 'A responsive image search application that allows users to explore high-quality images from the Unsplash API based on search queries. Users can view, download, and browse curated image results in a clean UI built with React and styled using Tailwind CSS.',
       image: 'https://i.ibb.co/cKm6RCFL/Screenshot-2025-08-02-at-16-31-41-React-App.png',
       technologies: ['React', 'Tailwind CSS', 'Unsplash API', 'Vercel'],
       github: 'https://github.com/rohan-kumrawat/Unsplash-image-search',
